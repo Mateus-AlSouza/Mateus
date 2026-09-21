@@ -31,8 +31,6 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
-![Maven](https://img.shields.io/badge/apachemaven-%23C71A36.svg?style=flat&logo=maven&logoColor=white)
-![Filament](https://img.shields.io/badge/filament-%23FDAE4B.svg?style=flat&logo=filament&logoColor=black&logoSize=auto)
 
 **Front-end**
 
