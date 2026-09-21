@@ -74,10 +74,6 @@
   <img src="https://streak-stats.demolab.com/?user=Mateus-Alsouza&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mateus-Alsouza&theme=tokyo-night&hide_border=true" width="95%" />
-</p>
-
 ---
 
 ## 📫 Vamos conversar?
