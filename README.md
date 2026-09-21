@@ -71,8 +71,11 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mateus-AlSouza&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-AlSouza&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Mateus-Alsouza&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mateus-Alsouza&theme=tokyo-night&hide_border=true" width="95%" />
 </p>
 
 ---
